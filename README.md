@@ -1,2 +1,4 @@
 # Chunithm-Air-Doc
-Doc of CHUNITHM's Air String Component
+Doc of CHUNITHM's Component
+
+For learning purposes only
